@@ -1,0 +1,12 @@
+.services{
+    text-align: center;
+}
+
+.service{
+    display: inline-block;
+    width:20%;
+
+}
+i{
+    color: orange;
+}
